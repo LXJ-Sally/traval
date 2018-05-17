@@ -1,0 +1,17 @@
+/node_modules
+/coverage
+/built
+built/
+/tmp
+.awcache
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode/
+.history
+.chrome/
+
+yarn.lock
